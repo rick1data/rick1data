@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Ricardo, tenho 21 anos e sou estudante de análise em desenvolvimento de sistemas, <br>atualmente focado em estudar Python e análise de dados.
+Me chamo Ricardo, tenho 22 anos e sou estudante de análise em desenvolvimento de sistemas, <br>atualmente focado em estudar Python e análise de dados.
 
 
 ## 🌐 Socials:
