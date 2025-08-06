@@ -1,5 +1,9 @@
 # 💫 About Me:
-Me chamo Ricardo, tenho 22 anos e sou estudante de análise em desenvolvimento de sistemas, <br>atualmente focado em estudar Python e análise de dados.
+Me chamo Ricardo, tenho 22 anos, formado Análise e Desenvolvimento de Sistemas e  atualmente cursando Tecnologia em Ciência de Dados. Tenho experiência acadêmica e em pequenos projetos pessoais com Python, SQL e Jupyter, além de já ter estudado PySpark utilizando notebooks no Databricks, o que me deu uma boa base sobre processamento distribuído e manipulação de grandes volumes de dados.
+
+Também possuo conhecimentos em machine learning, estatística básica e manipulação de dados com bibliotecas como Pandas, NumPy e Matplotlib. Já realizei cursos de Deep Learning e redes neurais convolucionais (CNNs), e atualmente estou me aprofundando no estudo de LLMs (Large Language Models), explorando sua aplicação prática com o framework LangChain.
+
+Sou curioso, autodidata e estou sempre em busca de aprender novas tecnologias. Acredito que posso agregar valor ao time com minha dedicação, senso analítico e disposição para evoluir rapidamente em ambientes desafiadores.
 
 
 ## 🌐 Socials:
